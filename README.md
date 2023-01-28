@@ -1,5 +1,4 @@
-### Greetings! 
-
+### 
 Hello world.👋
 
 - 🔭 I’m currently working on developing my full stack dev skills.
@@ -7,7 +6,6 @@ Hello world.👋
 - 👯 I’m looking to collaborate on cool and innovative projects which help in building a better world.
 - 🤔 I’m looking for help with Blockchain, Crypto , Bitcoin and stuff.
 - 💬 Ask me about : Oh will think about this later
-- 📫 How to reach me: @
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ... (oops, no fun )
 
