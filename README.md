@@ -1,16 +1,13 @@
-### Hi there 👋
+### Greetings! 
 
-<!--
-**pinkranger123/pinkranger123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello world.👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing my full stack dev skills.
+- 🌱 I’m currently learning whatever interests me.
+- 👯 I’m looking to collaborate on cool and innovative projects which help in building a better world.
+- 🤔 I’m looking for help with Blockchain, Crypto , Bitcoin and stuff.
+- 💬 Ask me about : Oh will think about this later
+- 📫 How to reach me: @
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: ... (oops, no fun )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
