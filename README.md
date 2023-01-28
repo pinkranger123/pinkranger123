@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Greetings+Everyone+!;I+am+Debmitra;An+Open-Source+Enthusiast;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-### <img src="https://media.giphy.com/media/3o7btSCV0LpltRrswU/giphy.gif" width="50"> A little more about me...  
+<h2><img src="https://media.giphy.com/media/3o7btSCV0LpltRrswU/giphy.gif" height="100" width="100"> More about me... </h2> 
 
 - 🔭 I’m currently working on improving my full stack dev skills.
 - 🌱 I’m currently learning whatever interests me.
