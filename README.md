@@ -7,11 +7,11 @@
 </p>
 <h2><img src="https://media.giphy.com/media/UcWiVE3np6ztbBJgZ9/giphy.gif" height="100" width="100"> More about me... </h2> 
 
-- 🔭 I’m currently working on improving my full stack dev skills.
+- 🔭 I’m currently working on improving my full-stack dev skills.
 - 🌱 I’m currently learning whatever interests me.
-- 👯 I’m looking to collaborate on cool and innovative projects which help in building a better world.
-- 🤔 I’m looking for help with Blockchain, Crypto , Bitcoin and stuff.
-- 💬 Ask me about : Oh will think about this later
+- 👯 I’m looking to collaborate on cool and innovative projects that help build a better world.
+- 🤔 I’m looking for help with AI/ML and stuff.
+- 💬 Ask me about: Oh, I will think about this later
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ... (oops, no fun )
 
